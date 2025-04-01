@@ -9,7 +9,7 @@ I am a neuroscientist and engineer with over 9 years of experience in data analy
 **OS**: LINUX, Windows OS  
 **Technical Skills**: Biomedical Data Analysis, Neural Engineering, Signal Processing.  
 High Performance Computing (University resources, CMRR and Minnesota Supercomputer Institute).  
-Machine Learning, Algorithm Development, Large Dataset Management.  
+Machine Learning, Algorithm Development, Large Dataset Management, PyTorch.  
 Statistical Modeling, Un/Supervised Learning, Clustering, GLM, Regression, Network Analysis.  
 
 ## PhD work
@@ -17,6 +17,18 @@ My thesis work explored the network structure of spontaneous activity in the dev
 
 Analyzing spatiotemporal pattern predictability over time:  
 https://github.com/LunaKet/SpatiotemporalClassiferHighCompute/README.md
+
+## Undergraduate Work
+Projects completed at the University of Missouri-Kansas City. While beginner-level, these projects show both my growth from a nascent programmer, as well as demonstrating a wide range of basic proficiency in C++, PyTorch, opencv, and firmware development.
+
+VNC analyzer for biometric research project (firmware):  
+https://github.com/LunaKet/MiniCircuits-2x8-Switch-Automation
+
+PyTorch project for Computer Vision course:  
+https://github.com/LunaKet/pytorch_tripletloss
+
+Facial recognition project for raspberry pi + arduino setup:  
+https://github.com/LunaKet/NerfGunFaceRecognition
 
 <!--
 **LunaKet/LunaKet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
