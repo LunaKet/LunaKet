@@ -12,7 +12,7 @@ High Performance Computing (University resources, CMRR and Minnesota Supercomput
 Machine Learning, Algorithm Development, Large Dataset Management, PyTorch.  
 Statistical Modeling, Un/Supervised Learning, Clustering, GLM, Regression, Network Analysis.  
 
-## PhD work
+# PhD work
 My thesis work explored the network structure of spontaneous activity in the developing visual cortex. This required collecting a big dataset of calcium imaging movies and setting up a dataframe to manage it. Over the course of the project, I wrote a custom Python library which preprocessed this dataframe of movies, computed key metrics, generated synthetic datasets, and performed statistical tests. Using unsupervised clustering and other machine learning methods, we found that spatiotemporal patterns in spontaneous activity repeated across hours and predicted future activity.
 
 Dataset management of novel spontaneous activity dataset, where class functionality mimics NumPy, but for arbitrarily long temporal sequences.  
@@ -26,7 +26,7 @@ https://github.com/LunaKet/SpatiotemporalClassiferHighCompute
 
 ![classifier](imgs/classifier_profile.png)
 
-## Undergraduate Work
+# Undergraduate Work
 Projects completed at the University of Missouri-Kansas City. While beginner-level, these projects show both my growth from a nascent programmer, as well as demonstrating a wide range of basic proficiency in C++, PyTorch, opencv, and firmware development.
 
 VNC analyzer for biometric research project (firmware):  
