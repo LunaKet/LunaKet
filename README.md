@@ -16,7 +16,10 @@ Statistical Modeling, Un/Supervised Learning, Clustering, GLM, Regression, Netwo
 My thesis work explored the network structure of spontaneous activity in the developing visual cortex. This required collecting a big dataset of calcium imaging movies and setting up a dataframe to manage it. Over the course of the project, I wrote a custom Python library which preprocessed this dataframe of movies, computed key metrics, generated synthetic datasets, and performed statistical tests. Using unsupervised clustering and other machine learning methods, we found that spatiotemporal patterns in spontaneous activity repeated across hours and predicted future activity.
 
 Dataset management of novel spontaneous activity dataset, where class functionality mimics NumPy, but for arbitrarily long temporal sequences.  
-https://github.com/LunaKet/SequenceDataClass  ![Event examples](/imgs/events.png)
+https://github.com/LunaKet/SequenceDataClass 
+
+![Event example](imgs/sequence_profile.png) 
+
 
 Analyzing spatiotemporal pattern predictability over time. Demonstrates deep knowledge of parallel processing on high performance computing clusters.  
 https://github.com/LunaKet/SpatiotemporalClassiferHighCompute
