@@ -24,6 +24,8 @@ https://github.com/LunaKet/SequenceDataClass
 Analyzing spatiotemporal pattern predictability over time. Demonstrates deep knowledge of parallel processing on high performance computing clusters.  
 https://github.com/LunaKet/SpatiotemporalClassiferHighCompute
 
+![classifier](imgs/classifier_profile.png)
+
 ## Undergraduate Work
 Projects completed at the University of Missouri-Kansas City. While beginner-level, these projects show both my growth from a nascent programmer, as well as demonstrating a wide range of basic proficiency in C++, PyTorch, opencv, and firmware development.
 
