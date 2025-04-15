@@ -5,12 +5,19 @@ I am currently looking for data science roles, either remote or in the **Minneap
 I am a neuroscientist and engineer with over 9 years of experience in data analysis, machine learning, and computational modeling, resulting from my work at the University of Minnesota and UMKC. My PhD research project demonstrates excellent project management skills in which I planned and executed short and long-term goals and consistently achieve key deadlines. This has helped me become a self-motivated worker who enjoys problem solving and seeking out learning opportunities. I am comfortable in a collaborative environment, where my teamwork skills and technical expertise helped me thrive in several cross-functional teams which included physicists, biologists, and engineers. 
 
 ## Skills
-**Programming**: Python (6+ years), SQL, MATLAB, R, C/C++, Git  
-**OS**: LINUX, Windows OS  
-**Technical Skills**: Biomedical Data Analysis, Neural Engineering, Signal Processing.  
-High Performance Computing (University resources, CMRR and Minnesota Supercomputer Institute).  
-Machine Learning, Algorithm Development, Large Dataset Management, PyTorch.  
-Statistical Modeling, Un/Supervised Learning, Clustering, GLM, Regression, Network Analysis.  
+**Programming**: 
+* Python (6+ years), Matlab, R, C/C++
+  * especially Numpy, PyTorch, etc.   
+* SQL, Tableau
+* Git
+* LINUX, Windows OS
+
+**Technical Skills**:  
+* Biomedical Data Analysis, Neural Engineering.
+* Signal Processing
+* High Performance Computing (University resources, CMRR and Minnesota Supercomputer Institute).
+* Machine Learning, Algorithm Development, Large Dataset Management.
+* Statistical Modeling
 
 # PhD work
 My thesis work explored the network structure of spontaneous activity in the developing visual cortex. This required collecting a big dataset of calcium imaging movies and setting up a dataframe to manage it. Over the course of the project, I wrote a custom Python library which preprocessed this dataframe of movies, computed key metrics, generated synthetic datasets, and performed statistical tests. Using unsupervised clustering and other machine learning methods, we found that spatiotemporal patterns in spontaneous activity repeated across hours and predicted future activity.
