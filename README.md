@@ -39,7 +39,7 @@ Facial recognition project for raspberry pi + arduino setup:
 https://github.com/LunaKet/NerfGunFaceRecognition
 
 # Other Projects
-A list of SQL and Tableau projects.  
+A list of SQL and Tableau portfolio projects.  
 https://github.com/LunaKet/Tableau-SQL-projects 
 
 
