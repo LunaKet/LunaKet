@@ -38,6 +38,11 @@ https://github.com/LunaKet/pytorch_tripletloss
 Facial recognition project for raspberry pi + arduino setup:  
 https://github.com/LunaKet/NerfGunFaceRecognition
 
+# Other Projects
+A list of SQL and Tableau projects.  
+https://github.com/LunaKet/Tableau-SQL-projects 
+
+
 <!--
 **LunaKet/LunaKet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
