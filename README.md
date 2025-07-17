@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently looking for data science roles, either remote or in the **Minneapolis** area. I am passionate about the life sciences, improving healthcare outcomes in the United States, and building data processing tools for scientists.
+I am currently looking for AI/Machine Learning Engineer, R&D Engineer, or Data Science roles either remote or in the **Minneapolis** area. I am passionate about the life sciences, improving healthcare outcomes in the United States, and building data processing tools for scientists.
 
 I am a neuroscientist and engineer with over 9 years of experience in data analysis, machine learning, and computational modeling, resulting from my work at the University of Minnesota and UMKC. My PhD research project demonstrates excellent project management skills in which I planned and executed short and long-term goals and consistently achieve key deadlines. This has helped me become a self-motivated worker who enjoys problem solving and seeking out learning opportunities. I am comfortable in a collaborative environment, where my teamwork skills and technical expertise helped me thrive in several cross-functional teams which included physicists, biologists, and engineers. 
 
